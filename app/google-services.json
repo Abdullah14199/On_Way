@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "810834220756",
+    "project_id": "delivery-apps-9abef",
+    "storage_bucket": "delivery-apps-9abef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810834220756:android:f7551cd0f9bae16594cd41",
+        "android_client_info": {
+          "package_name": "com.oneway2.onway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810834220756-eamjh0v837ib4bat4c32l2aelpr9vhif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneway2.onway",
+            "certificate_hash": "d34e5876d6d9079d5b9755ad240cb0540fc453d3"
+          }
+        },
+        {
+          "client_id": "810834220756-c14107umgtdl31mncdjrsdiqitc1e45f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_JRId7SW90mWeWdz5LVL2R87J_Ctg1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810834220756-c14107umgtdl31mncdjrsdiqitc1e45f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810834220756:android:abe6ba88d32027ea94cd41",
+        "android_client_info": {
+          "package_name": "com.onway2.onway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810834220756-cknoebe3urui9d47j0h1hc6drdgk57nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onway2.onway",
+            "certificate_hash": "d34e5876d6d9079d5b9755ad240cb0540fc453d3"
+          }
+        },
+        {
+          "client_id": "810834220756-c14107umgtdl31mncdjrsdiqitc1e45f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_JRId7SW90mWeWdz5LVL2R87J_Ctg1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810834220756-c14107umgtdl31mncdjrsdiqitc1e45f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810834220756:android:1778608d5ebf84cb94cd41",
+        "android_client_info": {
+          "package_name": "com.oneway2.onway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810834220756-c14107umgtdl31mncdjrsdiqitc1e45f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_JRId7SW90mWeWdz5LVL2R87J_Ctg1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810834220756-c14107umgtdl31mncdjrsdiqitc1e45f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

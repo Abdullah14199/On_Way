@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="الرئيسية" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/call"
+            android:title="تواصل معنا" />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/fastfood"
+            android:title="طلباتي" />
+        <item
+            android:id="@+id/nav_add_res"
+            android:icon="@drawable/restaurant"
+            android:title="اضف مطعمك معنا" />
+        <item
+            android:id="@+id/nav_res_controll"
+            android:icon="@drawable/controll"
+            android:title="لوحة تحكم المطعم" />
+        <item
+            android:id="@+id/nav_del_controll"
+            android:icon="@drawable/orders"
+            android:title="لوحة تحكم الديليفري" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/aboutus"
+            android:title="من نحن" />
+    </group>
+
+</menu>
